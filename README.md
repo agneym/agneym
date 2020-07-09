@@ -22,6 +22,13 @@
 * Thinks about stuff
 * I can read code.
 
+## Technologies
+
+My current favorite stack is ReactJS, NextJS, Styled Components and NodeJS. 
+I have worked with (and will probably continue) working with Angular, AngularJS, VueJS and Java, PHP, Python on the backend or competitive programming. 
+
+You can probably find related open source repositories 👆
+
 ## Contributing
 
 Contributions and Conversations are always welcome. Not taking feature requests at this time. 
