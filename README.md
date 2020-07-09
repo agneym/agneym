@@ -8,11 +8,11 @@
     <a href="https://agney.dev">Portfolio</a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Super Fast-%E2%9A%A1%EF%B8%8F-%23DD6B20" />
+    <img src="https://img.shields.io/badge/Super Fast-%E2%9A%A1%EF%B8%8F-%23DD6B20?style=flat-square" />
     <span> </span>
-    <img src="https://img.shields.io/badge/maintained%20since-1995-%2300B0FF" />
+    <img src="https://img.shields.io/badge/maintained%20since-1995-%2300B0FF?style=flat-square" />
     <span> </span>
-    <img src="https://img.shields.io/badge/%F0%9F%92%9B-JavaScript-%23304FFE" />
+    <img src="https://img.shields.io/badge/%F0%9F%92%9B-JavaScript-%23304FFE?style=flat-square" />
   </p>
 </div>
 
