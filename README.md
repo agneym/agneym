@@ -25,7 +25,7 @@
 ## Technologies
 
 My current favorite stack is ReactJS, NextJS, Styled Components and NodeJS. 
-I have worked with (and will probably continue) working with Angular, AngularJS, VueJS and Java, PHP, Python on the backend or competitive programming. 
+I have worked with (and will probably continue) working with Angular, SvelteJS, VueJS and Java, PHP, Python on the backend or competitive programming. 
 
 You can probably find related open source repositories 👆
 
