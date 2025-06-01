@@ -4,8 +4,6 @@
     <a href="https://agney.dev">Portfolio</a>
     <span> </span>
     <a href="https://twitter.com/agneymenon">Twitter</a>
-    <span> </span>
-    <a href="https://agney.dev">Portfolio</a>
   </p>
   <p>
     <img src="https://img.shields.io/badge/Super Fast-%E2%9A%A1%EF%B8%8F-%23DD6B20?style=flat-square" />
