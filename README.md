@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hey 👋 I'm Agney</h1>
   <p>
-    <a href="https://blog.agney.dev">Blog</a>
+    <a href="https://agney.dev">Portfolio</a>
     <span> </span>
     <a href="https://twitter.com/agneymenon">Twitter</a>
     <span> </span>
